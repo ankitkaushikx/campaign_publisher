@@ -1,0 +1,24 @@
+/*
+Theme Name: Sgews
+Theme URI: 
+Description: Astra child theme for sgews    
+Author: Anki kaushik 
+Author URI: https://github.com/ankitkaushikx
+Template: astra
+Version: 1.0
+*/
+
+.author-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.author-info img {
+  border-radius: 50%; /* For rounded avatar */
+  margin-right: 10px;
+}
+
+.author-name {
+  text-decoration: underline;
+}
